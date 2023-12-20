@@ -1,6 +1,6 @@
 package it.alfasoft.pojodtoconverter;
 
-import it.alfasoft.daogenerico.IDto;
+import it.alfasoft.daosimple.IDto;
 
 import java.util.List;
 
