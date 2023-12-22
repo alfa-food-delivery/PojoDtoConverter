@@ -28,4 +28,5 @@ public class OffuscamentoBidirezionale {
 
         return Integer.parseInt(decryptedString);
     }
+
 }

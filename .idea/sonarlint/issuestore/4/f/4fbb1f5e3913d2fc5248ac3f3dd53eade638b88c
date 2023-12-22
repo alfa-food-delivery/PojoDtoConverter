@@ -1,10 +1,10 @@
 
 ƒ
-java:S3038	"f"convertDtoToPojo" is defined in the "IConverterPojoDto" interface and can be removed from this class.(’­¬•8”’Ï¼Ç1
+java:S3038"f"convertDtoToPojo" is defined in the "IConverterPojoDto" interface and can be removed from this class.(’­¬•8”’Ï¼Ç1
 ˆ
+java:S3038	"f"convertPojoToDto" is defined in the "IConverterPojoDto" interface and can be removed from this class.(Óù™èûÿÿÿÿ8•’Ï¼Ç1
+Œ
 java:S3038
-"f"convertPojoToDto" is defined in the "IConverterPojoDto" interface and can be removed from this class.(Óù™èûÿÿÿÿ8•’Ï¼Ç1
+"j"convertListDtoToPojo" is defined in the "IConverterPojoDto" interface and can be removed from this class.(ı‰çıÿÿÿÿ8•’Ï¼Ç1
 Œ
-java:S3038"j"convertListDtoToPojo" is defined in the "IConverterPojoDto" interface and can be removed from this class.(ı‰çıÿÿÿÿ8•’Ï¼Ç1
-Œ
-java:S3038"j"convertListPojoToDto" is defined in the "IConverterPojoDto" interface and can be removed from this class.(«£öÛûÿÿÿÿ8‰Œ¡´È1
+java:S3038"j"convertListPojoToDto" is defined in the "IConverterPojoDto" interface and can be removed from this class.(«£öÛûÿÿÿÿ8‰Œ¡´È1
